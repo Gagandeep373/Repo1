@@ -5,7 +5,7 @@ class func:
  def showname(self):
   return self.name
  def showage(self):
-  return self.age
+  return self.a
  def setname(self,fullname):
   self.name=fullname
  def setage(self,age):
